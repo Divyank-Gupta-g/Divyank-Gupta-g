@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyank-Gupta
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning C and Python language.
+- 🌱 I’m currently learning C, Python and Java language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me divyankgupta001@gmail.com
 
