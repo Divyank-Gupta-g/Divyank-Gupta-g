@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divyank-Gupta
-- 👀 I’m interested in Software development and traniee
+- 👀 I’m interested in Software development and traniee job...
 - 🌱 I’m currently learning and working on Java language.
 - 💞️ I’m looking to collaborate on software development...
 - 📫 How to reach me divyankgupta001@gmail.com
